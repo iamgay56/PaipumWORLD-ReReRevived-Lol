@@ -165,7 +165,7 @@ let userCommands = {
             });
             target.disconnect();
         } else {
-          this.socket.emit('alert','The user you are trying to kick left. Get dunked on nerd')
+          this.socket.emit('alert','The user you are trying to kick left. Get dunked on minji porn.')
       }
   },
   css:function(...txt){
@@ -194,7 +194,7 @@ let userCommands = {
                 target.disconnect();
                 target.socket.disconnect();
         } else {
-            this.socket.emit("alert", "The user you are trying to kick left. Get dunked on nerd");
+            this.socket.emit("alert", "The user you are trying to kick left. Get dunked on minji porn.");
         }
     },
   "unban": function(ip) {
@@ -251,7 +251,7 @@ let userCommands = {
         this.socket.emit("vaporwave");
         this.room.emit("youtube", {
             guid: this.guid,
-            vid: "aQkPcPqTq4M"
+            vid: "z6P9Q94"
         });
     },
     "unvaporwave": function() {
