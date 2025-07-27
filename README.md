@@ -3,4 +3,4 @@
 ## Special:
 # IdealBEHH
 # Ahmad Jaafari
-# Nazar
+# <del>Nazar</del>
